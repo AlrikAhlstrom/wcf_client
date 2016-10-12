@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\NotesClient.exe.config
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\NotesClient.exe
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\NotesClient.pdb
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\RestSharp.dll
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\RestSharp.xml
+C:\VisualStudioProjects\NotesClient\NotesClient\obj\Debug\NotesClient.exe
+C:\VisualStudioProjects\NotesClient\NotesClient\obj\Debug\NotesClient.pdb
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\Newtonsoft.Json.dll
+C:\VisualStudioProjects\NotesClient\NotesClient\bin\Debug\Newtonsoft.Json.xml
+C:\VisualStudioProjects\NotesClient\NotesClient\obj\Debug\NotesClient.csprojResolveAssemblyReference.cache

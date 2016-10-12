@@ -1,0 +1,15 @@
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\NotesClientUI.exe.config
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\NotesClientUI.exe
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\NotesClientUI.pdb
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\NotesClient.exe
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\RestSharp.dll
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\NotesClient.pdb
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\RestSharp.xml
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.Form1.resources
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.Properties.Resources.resources
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.exe
+C:\VisualStudioProjects\NotesClient\NotesClientUI\obj\Debug\NotesClientUI.pdb
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\Newtonsoft.Json.dll
+C:\VisualStudioProjects\NotesClient\NotesClientUI\bin\Debug\Newtonsoft.Json.xml
